@@ -1,4 +1,4 @@
-# MERN Kanban Board
+# MAIN Kanban Board
 
 Welcome to the MERN Kanban Board project! This project is designed to provide you with a simple yet powerful Kanban board application built using the MERN stack (MongoDB, Express.js, React, Node.js). With this application, you can easily manage your tasks and projects using the Kanban methodology.
 
@@ -36,7 +36,6 @@ Before you begin, ensure you have met the following requirements:
 
 - **Frontend:**
   - React.js
-  - Redux for state management
   - React DnD for drag-and-drop functionality
   - Axios for HTTP requests
 
