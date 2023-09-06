@@ -32,6 +32,10 @@ Before you begin, ensure you have met the following requirements:
 
 <img width="960" alt="Screenshot 2023-09-07 001947" src="https://github.com/rishabhbilwal2203/Main-kanban/assets/88207344/aa8d3020-17ba-419e-8c85-9858c7fad729">
 
+## Live URL
+
+url - "https://main-kanban.vercel.app/"
+
 ## Technologies Used
 
 - **Frontend:**
@@ -60,4 +64,4 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-Happy task management with the MERN Kanban Board! If you have any questions or issues, please don't hesitate to [contact us](mailto:your-email@example.com).
+Happy task management with the MERN Kanban Board! If you have any questions or issues, please don't hesitate to [contact us](mailto:rishabhbilwal@gmail.com).
