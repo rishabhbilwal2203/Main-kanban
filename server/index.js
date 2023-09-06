@@ -6,7 +6,7 @@ require("./db")
 const app = express();
 app.use(cors(
     {
-        origin: [""],
+        origin: ["https://main-kanban.vercel.app/"],
         methods: ["POST", "GET", "DELETE", "PUT"],
         credentials: true
     }
