@@ -7,7 +7,7 @@ const app = express();
 app.use(cors(
     {
         origin: ["https://main-kanban.vercel.app"],
-        methods: ["POST", "GET"],
+        methods: ["POST", "GET", "DELETE"],
         credentials: true
     }
 ));
